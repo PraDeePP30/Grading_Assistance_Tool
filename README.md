@@ -1,1 +1,1 @@
-# GraceMarksCalculator
+# Grading Assistance Tool
